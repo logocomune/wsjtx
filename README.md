@@ -1,4 +1,8 @@
 # WSJTX
+[![CircleCI](https://circleci.com/gh/logocomune/wsjtx/tree/main.svg?style=svg)](https://circleci.com/gh/logocomune/wsjtx/tree/main)
+[![Go Report Card](https://goreportcard.com/badge/github.com/logocomune/wsjtx)](https://goreportcard.com/report/github.com/logocomune/wsjtx)
+[![codecov](https://codecov.io/gh/logocomune/wsjtx/branch/main/graph/badge.svg?token=GGN3PHjyZV)](https://codecov.io/gh/logocomune/wsjtx)
+[![CodeFactor](https://www.codefactor.io/repository/github/logocomune/wsjtx/badge)](https://www.codefactor.io/repository/github/logocomune/wsjtx)
 
 Golang library for WSJTX-X provides:
 
